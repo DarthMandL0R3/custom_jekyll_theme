@@ -4,8 +4,8 @@ This is a project to verify the needed parameters to ensure a great looking Jeky
 
 ## Clarification
 
-This project is a fork from [unknown] (https://github.com/137unknown) from .
+This project is a fork from [unknown] (https://github.com/137unknown/) from Anon3mity.
 
 ## License
 
-[MIT] (https://opensource.org/licenses/MIT)
+[MIT] (https://opensource.org/licenses/MIT/)
